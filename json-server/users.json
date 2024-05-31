@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Santiago Ortega",
+      "email": "santiago.ortega@accenture.com",
+      "message": "Hello, this is Santiago! Welcome to this Demo"
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "message": "Hello, this is John!"
+    }
+  ]
+}
